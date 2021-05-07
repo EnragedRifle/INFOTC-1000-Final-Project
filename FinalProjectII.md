@@ -4,7 +4,7 @@ My Hobbies
 Caution: Nerd Stuff Ahead
 ---
 ----
-###### Want a quick intro of me first? [Click here!](FinalProject.md)
+###### Want a quick intro of me first? [Click here!](FinalProject(Intro).md)
 
 ------------
 
