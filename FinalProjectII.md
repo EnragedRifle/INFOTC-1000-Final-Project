@@ -3,9 +3,12 @@ My Hobbies
 
 Caution: Nerd Stuff Ahead
 ---
+----
+###### Want a quick intro of me first? [Click here!](FinalProject.md)
+
 ------------
 
-#### What even are my hobbies?
+## What even are my hobbies?
 
 + Playing _Magic: the Gathering_
 + As juvenile as it sounds to say, Video Games are something I enjoy greatly
@@ -34,8 +37,8 @@ Heres a quick pic of the game progression:
 
 ![Hood Video Game Photo](https://i0.wp.com/sirusgaming.com/wp-content/uploads/2021/04/hood-outlaws-and-legends-roadmap-01.jpg?resize=1024%2C576&ssl=1)
 
+---
+##### Here is some fun code showing a list in Python - but it has a little twist:
+     _501st = ['Rex, Jesse, Fives, Echo, Kix']
 
-----
-##### Check out my other page for an intro of me.
-
-[Intro Link](FinalProject.md)
+     print(_501st)
