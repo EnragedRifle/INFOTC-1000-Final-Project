@@ -34,3 +34,13 @@ and starting her job as an ER nurse the next day!
 [Oldest Human Burial In Africa Found](https://www.nationalgeographic.com/science/article/childs-grave-is-the-oldest-human-burial-found-in-africa)
 
 ![Ancient Skeleton](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1gnVTI.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg)
+
+
+-----
+
+### Here is a little piece of the code for my INFOTC 1040 final!:
+    def admin_login():
+        while(True):
+            user_dict = {'User1' : 24680, 'User2' : 13579, 'User3' : 56789}
+            username = input('Username:',)
+            password = input('Password:',)
