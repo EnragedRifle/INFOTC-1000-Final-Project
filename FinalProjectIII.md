@@ -66,3 +66,7 @@ Directory
 [Summer Plans](FinalProjectIV.md) - My Summer Plans
 
 [Empty Page]
+
+##### In case you were wondering. This is me!
+
+![Yours Truly](SanDiego.jpg)

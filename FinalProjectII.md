@@ -42,3 +42,17 @@ Heres a quick pic of the game progression:
      _501st = ['Rex, Jesse, Fives, Echo, Kix']
 
      print(_501st)
+
+Directory
+-------------
+[About Me](FinalProject(intro).md) - An introduction to who I am!
+
+[My Hobbies](FinalProjectII.md) - What I like to do!
+
+[Summer Plans](FinalProjectIV.md) - My Summer Plans
+
+[My Major](FinalProjectV.md) - My Major!
+
+##### In case you were wondering. This is me!
+
+![Yours Truly](SanDiego.jpg)

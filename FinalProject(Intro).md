@@ -44,3 +44,17 @@ and starting her job as an ER nurse the next day!
             user_dict = {'User1' : 24680, 'User2' : 13579, 'User3' : 56789}
             username = input('Username:',)
             password = input('Password:',)
+
+#### Directory
+[About Me](FinalProject(intro).md) - An introduction to who I am!
+
+[Future Plans](FinalProjectIII.md) - My Future Plans
+
+[My Hobbies](FinalProjectII.md) - What I like to do!
+
+[My Major](FinalProjectV.md) - My Major!
+
+
+##### In case you were wondering. This is me!
+
+![Yours Truly](SanDiego.jpg)

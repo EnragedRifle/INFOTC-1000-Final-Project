@@ -13,7 +13,7 @@ Summer cruise is training for the Navy where I see how the fleet operates.
 
 ***What kind of workouts will I be doing?**
 
-Hopefully a lot of freeweights and lifting. I want to improve my deadlift form this year.
+Hopefully a lot of freeweights **and** lifting. I want to improve my deadlift form this year.
 
 ![Deadlift Photo](https://onnitacademy.imgix.net/2016/01/DeafrancoDeadlift-1440x900.jpg)
 
@@ -39,4 +39,9 @@ I've been reading up on how I can improve like at the sight linked below.
 
 [Future Plans](FinalProjectIII.md) - My future plans!
 
-[Empty Page]
+[My Major](FinalProjectV.md) - My Major!
+
+
+##### In case you were wondering. This is me!
+
+![Yours Truly](SanDiego.jpg)

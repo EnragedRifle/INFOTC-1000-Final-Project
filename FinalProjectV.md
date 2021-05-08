@@ -13,8 +13,6 @@ us to use it responsibly
 3. Technology is Awesome
 4. You get to see the development of your skills in real time
 
-
-
 ------------------
 
 The first language I 'learned' is _Python_.
@@ -44,3 +42,7 @@ Directory
 [Summer Plans](FinalProjectIV.md) - My Summer Plans
 
 [Future Plans](FinalProjectIII.md) - Plans for the Future
+
+##### In case you were wondering. This is me!
+
+![Yours Truly](SanDiego.jpg)
