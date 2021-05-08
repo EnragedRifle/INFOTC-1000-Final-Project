@@ -63,6 +63,6 @@ Directory
 
 [My Hobbies](FinalProjectII.md) - What I like to do!
 
-[Empty Page]
+[Summer Plans](FinalProjectIV.md) - My Summer Plans
 
 [Empty Page]
