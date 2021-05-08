@@ -65,7 +65,7 @@ Directory
 
 [Summer Plans](FinalProjectIV.md) - My Summer Plans
 
-[Empty Page]
+[My Major](FinalProjectV.md) - My Major!
 
 ##### In case you were wondering. This is me!
 
